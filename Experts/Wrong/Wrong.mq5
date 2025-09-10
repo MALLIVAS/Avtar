@@ -1,3 +1,4 @@
+// First version test
 //+------------------------------------------------------------------+
 //|                                                        Wrong.mq5 |
 //|                                  Copyright 2025, MetaQuotes Ltd. |
