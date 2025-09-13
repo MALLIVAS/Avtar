@@ -1,0 +1,6 @@
+﻿# MQL5 build and temp
+*.ex5
+*.mqh~
+/obj/
+/bin/
+/*.log
