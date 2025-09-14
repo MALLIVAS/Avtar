@@ -1,3 +1,13 @@
-# MQL5
+﻿# AVTAR - Expert Advisor
 
-MQL5 Algo Forge / [SARBESHS](https://www.mql5.com/en/users/SARBESHS)
+This repository contains the AVTAR EA.
+
+Folders:
+- Include/
+- Libraries/
+- Inputs/
+- Images/
+
+How to build:
+1. Open Avtar.mqproj in MetaEditor.
+2. Compile (F7).
