@@ -1,0 +1,32 @@
+﻿# ===============================
+#   MQL5 Project Git Ignore File
+# ===============================
+
+# Ignore compiled files (MetaEditor builds these automatically)
+*.ex5
+*.ex4
+*.obj
+
+# Ignore logs, caches, temp files
+*.log
+*.dat
+*.tmp
+
+# Ignore backup files
+*.bak
+
+# Ignore MetaTrader runtime folders (local data only)
+Profiles/
+Logs/
+Bases/
+Tester/
+Cache/
+
+# Ignore large images or test resources (keep repo clean)
+Images/*.bmp
+Images/*.png
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
